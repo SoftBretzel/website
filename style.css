@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Sansita+Swashed:wght@600&display=swap');
+
+body{
+    background-color: lavender;
+}
+header{
+    background-color: darkslateblue;
+    font-family: 'Sansita Swashed', cursive;
+    color: aliceblue;
+    text-align: center;
+}
+footer{
+    background-color: #483d8b;
+    font-family: 'Sansita Swashed', cursive;
+    color: aliceblue;
+    text-align: left;
+    vertical-align: middle;
+}
+a{
+    color: mediumpurple;
+}
+p{
+    font-family: 'Playfair Display', serif;
+    color: darkslateblue;
+}
+.centre{
+    text-align: center;
+}
+.police{
+    font-family: 'Playfair Display', serif;
+    color: darkslateblue;
+}
+img{
+    width: 300px;
+    height: auto;
+}
+.color{
+    background-color: mediumpurple;
+    color: aliceblue;
+}
+
+.taille{
+    height: 50px;
+    width: auto;
+}
