@@ -13,7 +13,7 @@ footer{
     background-color: #483d8b;
     font-family: 'Sansita Swashed', cursive;
     color: aliceblue;
-    text-align: left;
+    text-align: auto;
     vertical-align: middle;
 }
 a{
@@ -24,7 +24,7 @@ p{
     color: darkslateblue;
 }
 .centre{
-    text-align: center;
+    text-align: center ;
 }
 .police{
     font-family: 'Playfair Display', serif;
@@ -35,8 +35,8 @@ img{
     height: auto;
 }
 .color{
-    background-color: mediumpurple;
-    color: aliceblue;
+    background: #9370db !important;
+    color: aliceblue !important;
 }
 
 .taille{
