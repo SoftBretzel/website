@@ -7,5 +7,14 @@
   "license": "MIT",
   "dependencies": {
     "purecss": "^2.0.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "geckodriver": "^1.20.0",
+    "jest": "^26.5.2",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "chromedriver": "85.0.0"
   }
 }
