@@ -9,15 +9,25 @@ header{
     color: aliceblue;
     text-align: center;
 }
+main{
+    background-color: lavender;
+    margin-bottom: 70px;
+}
 footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 60px;
+    width: 100%;
     background-color: #483d8b;
     font-family: 'Sansita Swashed', cursive;
     color: aliceblue;
-    text-align: auto;
-    vertical-align: middle;
+    text-align: center;
+
 }
 a{
-    color: mediumpurple;
+    color: aliceblue;
+    padding: 15px;
 }
 p{
     font-family: 'Playfair Display', serif;
@@ -39,7 +49,11 @@ img{
     color: aliceblue !important;
 }
 
-.taille{
-    height: 50px;
-    width: auto;
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline;
 }
