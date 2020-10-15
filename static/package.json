@@ -1,0 +1,11 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SoftBretzel/website.git",
+  "author": "Yi Mei <yimeijiang138@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "purecss": "^2.0.3"
+  }
+}
